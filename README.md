@@ -1,5 +1,5 @@
 MuralDH
-DOI: https://doi.org/10.5061/dryad.bnzs7h4jd
+https://datadryad.org/stash/share/54nDWVNBmWGHR2KtApHxA9aC_XpJSXEW2jQwxf3P3MA.
 
 Brief Summary
 The MuralDH dataset is a comprehensive collection of high-quality images for the digital restoration of Dunhuang murals. It includes over 5000 pre-processed images, curated to support research in digital art restoration, computer vision, and cultural heritage preservation. This dataset is divided into segments including damaged mural segmentation, high-resolution mural images, and images processed for super-resolution studies. The collection, designed to assist in the development and testing of digital restoration algorithms, aims to bridge traditional art with modern technology, ensuring the longevity and accessibility of these invaluable cultural treasures.
@@ -17,7 +17,7 @@ Missing data or incomplete images are marked with a specific code (e.g., NA for 
 Sharing/Access Information
 The MuralDH dataset is hosted on Dryad but can also be accessed through the following link for direct download and further information:
 
-Access Link: http://example.com/muraldh-access
+Access Link: https://datadryad.org/stash/share/54nDWVNBmWGHR2KtApHxA9aC_XpJSXEW2jQwxf3P3MA.
 Data Derivation Sources
 This dataset was compiled from various sources, including digital archives and collaborations with cultural heritage organizations. Each image has been carefully selected and processed to meet the research needs while adhering to copyright and preservation guidelines.
 
